@@ -1,2 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songheewon&show_icons=true&theme=vue)
-[![trophy](https://github-profile-trophy.vercel.app/?username=songheewon)](https://github.com/ryo-ma/github-profile-trophy)
+![songheewon's github stats](https://github-readme-stats.vercel.app/api?username=songheewon&show_icons=true)
+[![songheewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=songheewon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/songheewon)
