@@ -5,7 +5,7 @@
 - 🔧 I have project experience using Python, HTML, CSS, JavaScript, etc.
 - 🌱 I'm trying to learn new technologies and try to keep myself busy<br/>
 - ❤ I’m open for collaboration on every interesting project <br/>
-- 📫 You can contact me through these socials IDs <br/>
+- 📫 You can contact me through socials IDs below <br/>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
