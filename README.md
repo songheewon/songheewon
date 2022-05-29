@@ -1,5 +1,3 @@
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-
 ### 🙋🏻‍♀ About Me
 - 👋🏻 Hi, I’m Songhee Won <br/> 
 - 💻 My major is Computer Science and Engineering<br>
