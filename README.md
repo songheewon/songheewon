@@ -2,7 +2,7 @@
 - 👋🏻 Hi, I’m Songhee Won <br/> 
 - 💻 My major is Computer Science and Engineering<br>
 - 👀 I’m interested in Machine Learning, Designing Frontend, Managing Backend and Many more<br/>
-- 🔧 I have project experience using Python, HTML, CSS, JavaScript, etc.
+- 🔧 I have project experience using Python(Flask and Django), Java(SpringBoot), HTML, React, etc.
 - 🌱 I'm trying to learn new technologies and try to keep myself busy<br/>
 - ❤ I’m open for collaboration on every interesting project <br/>
 - 📫 You can contact me through socials IDs below <br/>
