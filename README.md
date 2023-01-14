@@ -35,10 +35,6 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-### 📊 My Stats
-![songheewon's github stats](https://github-readme-stats.vercel.app/api?username=songheewon&show_icons=true)
-[![songheewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=songheewon&show_icons=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/songheewon)
-
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 ### 🥇 BaekJoon(Solved.ac) Level
