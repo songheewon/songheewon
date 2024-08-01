@@ -36,7 +36,5 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-
 ### 🥇 BaekJoon(Solved.ac) Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songheew)](https://solved.ac/songheew/)
